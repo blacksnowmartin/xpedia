@@ -1,4 +1,4 @@
-we are creating a mock up project for https://www.expedia.com/Flights 
-we are using MySql database
-And for any edits or queries to the database we want to use stored procedures 
-For the front end we are using html java and css (and bootstrap styling)
+- we are creating a mock up project for https://www.expedia.com/Flights 
+- we are using MySql database
+- And for any edits or queries to the database we want to use stored procedures 
+- For the front end we are using html java and css (and bootstrap styling)
